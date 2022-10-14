@@ -16,20 +16,15 @@
     },
     "profiles": [
       {
-        "network": "github",
+        "network": "Github",
         "username": "qu-leon",
         "url": "https://github.com/qu-leon"
       },
       {
-        "network": "linkedin",
+        "network": "Linkedin",
         "username": "leon-qu",
         "url": "http://www.linkedin.com/in/leon-qu-788afe"
       },
-      {
-        "network": "facebook",
-        "username": "leon qu",
-        "url": "https://www.facebook.com/leon.qu.7"
-      }
     ]
   },
   "interests": [
