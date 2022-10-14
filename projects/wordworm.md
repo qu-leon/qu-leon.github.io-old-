@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/wordworm.png
+image: images/flagship.jpg
 title: WordWorm
 permalink: projects/wordworm
 date: 2018
