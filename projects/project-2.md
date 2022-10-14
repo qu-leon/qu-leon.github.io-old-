@@ -13,8 +13,9 @@ labels:
 summary: My team developed a new web app prototype in the 2018 National Flagship Hackathon hosted by UH.
 ---
 
-<div class="ui small rounded images">
-</div>
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../images/wordworm.png">
 
 Flagship Hackathon is an national event in partnership with the National Language Flagship and hosted by the Flagship technology center at UH Manoa where students from all the avalaible Flagship Universities are to selected to come and work together to innovate on technologies that will help students in their studies for learning foreign languages. The app my team developed is called Wordworm which is a web app that will help to solve the issue that many students face when learning a foreign language: a lack of authentic materials especially at the higher levels if students want to focus their language learning on a specific field. 
 
