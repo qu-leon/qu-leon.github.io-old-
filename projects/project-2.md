@@ -13,7 +13,7 @@ labels:
 summary: My team developed a new web app prototype in the 2018 National Flagship Hackathon hosted by UH.
 ---
 
-<img width="75px" 
+<img width="200px" 
      class="rounded float-start pe-4" 
      src="../images/wordworm.png">
 
