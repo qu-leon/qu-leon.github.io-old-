@@ -17,22 +17,33 @@
     "profiles": [
       {
         "network": "Github",
-        "username": "qu-leon",
+        "username": "Github",
         "url": "https://github.com/qu-leon"
       },
       {
         "network": "Linkedin",
-        "username": "leon-qu",
+        "username": "LinkedIn",
         "url": "http://www.linkedin.com/in/leon-qu-788afe"
       },
     ]
   },
   "interests": [
     {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Hardware Manufacturing",
+      "keywords": [
+        "EUV lithography",
+        "Mask design"
+      ]
+    },
+    {
       "name": "Machine learning",
       "keywords": [
-        "neural networks",
-        "deep learning"
+        "neural networks"
       ]
     },
      {
