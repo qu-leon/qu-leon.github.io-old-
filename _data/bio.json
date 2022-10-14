@@ -9,10 +9,10 @@
     "summary": "Recent graduate of B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. My interests include website design, data analytics, and software engineering. In my free time, I enjoy traveling, learning new languages and going to the gym.",
     "location": {
       "address": "",
-      "postalCode": "96818",
-      "city": "Honolulu",
+      "postalCode": "97229",
+      "city": "Portland",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Oregon"
     },
     "profiles": [
       {
@@ -88,11 +88,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "B.S. Computer Science, B.A. Chinese",
       "studyType": "",
-      "startDate": "2014-08-14",
-      "endDate": "2019-12-19",
-      "gpa": "3.45",
       "courses": [
-        "ICS 141/241: Discrete math",
         "ICS 311: Algorithms",
         "ICS 314/414: Software Engineering",
         "ICS 464: Human Computer Interaction",
@@ -104,6 +100,27 @@
     }
   ],
   "work": [
+    {
+      "company": "Intel Corporation",
+      "position": "Engineering Technician",
+      "startDate": "2022-11-03",
+      "endDate": "Present",
+      "summary": "Engineering Technician for Intel - LTD Integration 1278 group",
+      "highlights": [
+        "Data analysis and collection in order to create the next line of technology products at Intel"
+      ]
+    },
+    {
+      "company": "Intel Corporation",
+      "position": "Manufacturing Mask Technician",
+      "startDate": "2020-12-03",
+      "endDate": "2022-10-31",
+      "summary": "Manufacturing technician in IMO-RA Repair module",
+      "highlights": [
+        "Fully certified in repair analysis tools and devised repair strategies for each specific mask defect",
+        "Peer mentor for new MMTs that join repair module and had them fully certified on all relevant toolsets"
+      ]
+    },
     {
       "company": "Leadwest Education",
       "position": "Education Consultant",
@@ -215,12 +232,6 @@
       "date": "2014-2019",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
