@@ -1,3 +1,3 @@
 # Professional Portfolio
 
-For details on this professional portfolio, please see https://techfolios.github.io.
+Hello! My name is Leon Qu. Nice to meet you!
