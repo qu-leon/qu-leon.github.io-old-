@@ -1,0 +1,234 @@
+{
+  "basics": {
+    "name": "Leon Qu",
+    "label": "Engineering Technician at Intel",
+    "picture": "https://raw.githubusercontent.com/qu-leon/qu-leon.github.io/master/images/leon_head.jpg",
+    "email": "qu.leonjr@gmail.com",
+    "phone": "808-840-7795",
+    "website": "https://qu-leon.github.io",
+    "summary": "Graduate of B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. My interests include website design, data analytics, and software engineering. In my free time, I enjoy traveling and learning new languages.",
+    "location": {
+      "address": "",
+      "postalCode": "97229",
+      "city": "Portland",
+      "countryCode": "USA",
+      "region": "Oregon"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "Github",
+        "url": "https://github.com/qu-leon"
+      },
+      {
+        "network": "Linkedin",
+        "username": "LinkedIn",
+        "url": "https://www.linkedin.com/in/leonqu/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Hardware Manufacturing",
+      "keywords": [
+        "EUV lithography",
+        "Mask design"
+      ]
+    },
+    {
+      "name": "Machine learning",
+      "keywords": [
+        "neural networks"
+      ]
+    },
+     {
+      "name": "Blockchain",
+      "keywords": [
+        "cryptocurrencies",
+        "ethereum",
+        "bitcoin",
+        "smart contracts"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "HTML/CSS",
+        "Python",
+        "SQL/NoSQL",
+        "Prolog"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "Linux/Ubuntu",
+        "Git/GitHub",
+        "gcc"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "B.S. Computer Science, B.A. Chinese",
+      "studyType": "",
+      "courses": [
+        "ICS 311: Algorithms",
+        "ICS 332: Operating Systems",
+        "ICS 361: AI Programming",
+        "CHN 496: Overseas Capstone in China"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Intel Corporation",
+      "position": "Engineering Technician",
+      "startDate": "2022-11-03",
+      "endDate": "Present",
+      "summary": "Engineering Technician for Intel - LTD Integration 1278 group",
+      "highlights": [
+        "Data analysis and collection in order to create the next line of technology products at Intel"
+      ]
+    },
+    {
+      "company": "Intel Corporation",
+      "position": "Manufacturing Mask Technician",
+      "startDate": "2020-12-03",
+      "endDate": "2022-10-31",
+      "summary": "Manufacturing technician in IMO-RA Repair module",
+      "highlights": [
+        "Fully certified in repair analysis tools and devised repair strategies for each specific mask defect",
+        "Peer mentor for new MMTs that join repair module and had them fully certified on all relevant toolsets"
+      ]
+    },
+    {
+      "company": "Leadwest Education",
+      "position": "Education Consultant",
+      "website": "http://www.leadwestedu.com/",
+      "startDate": "2019-08-14",
+      "endDate": "2019-12-13",
+      "summary": "Worked as an education consultant in China as part of Chinese Flagship",
+      "highlights": [
+        "Guided student clients on college planning and application process",
+        "Produced new educational videos and articles dramatically increasing company online presence ",
+        "Wrote company website page using HTML/CSS/Javascript",
+        "Translated documents to be sent to U.S. universities",
+        "Edited student essays and increased success rate of acceptance into their university choices"
+      ]
+    },
+    {
+      "company": "UH Research",
+      "position": "Project Research Assistant",
+      "website": "https://www.rcuh.com/",
+      "startDate": "2018-11-04",
+      "endDate": "2019-01-10",
+      "summary": "Worked on research of California Coastlines project lead by Dr. John Lynham",
+      "highlights": [
+        "Analyzed coastlines utilizing Google Earth and California Coastlines database finding trends in coastline recession",
+        "Approximated recorded points and reported back trends weekly",
+        "Collaborated with other assistants remotely to finalize date trends"
+      ]
+    },
+    {
+      "company": "Sheila Donnelly & Associates",
+      "position": "Data Management and Marketing Intern",
+      "website": "https://www.sheiladonnelly.com/",
+      "startDate": "2017-02-03",
+      "endDate": "2016-06-17",
+      "summary": "Internship working on managing multiple company databases using database software",
+      "highlights": [
+        "Minimized duplicates and missing information in company contact database",
+        "Introduced new client press releases through company social media channels",
+        "Implemented a more efficient process of inputting contacts into database"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "AFCEA Hawaii",
+      "website": "https://www.afcea-hawaii.org/",
+      "position": "Member",
+      "startDate": "2018-02-15",
+      "endDate": "Present",
+      "summary": "TechNet Asia Pacific volunteer",
+      "highlights": [
+        "Maintain conference operations such as booth set up and attendee sign in"
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Member, ACM Manoa, 2015-2018",
+        "Volunteer member, YMCA Atherton, UH Manao, 2016-2018",
+        "Member, HOSA, UH Manoa, 2014-2018",
+        "Webmaster/IT Officer, HOSA, UH Manoa, 2016-2017"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Benjamin A. Gilman International Scholarship & Critical Language Scholarship",
+      "date": "2019",
+      "awarder": "U.S. Department of State, Bureau of Educational and Cultural Affairs",
+      "summary": "Highly competitive international scholarship awarded to students preparing to study abroad."
+    },
+    {
+      "title": "Flagship Hackathon 2nd place",
+      "date": "2018",
+      "awarder": "UH Manoa Language Flagship Technology Innovation Center",
+      "summary": "Project prototype to make a language acquisition app. See projects for details."
+    },
+    {
+      "title": "Freeman-Asia Scholarship",
+      "date": "2018",
+      "awarder": "Institute of International Education",
+      "summary": "Highly competitive national scholarship awarded to students studying abroad."
+    },
+    {
+       "title": "Green Ideas Best Team Award & Green Ideas Innovator Award",
+       "date": "2018",
+       "awarder": "UH Manoa Language Flagship Technology Innovation Center",
+       "summary": "National collaboration project launched from a Chinese class project, working with colleague from schools in the Midwest and Eastern US."
+    },
+    {
+      "title": "Huayu Ministry of Education Scholarship",
+      "date": "2017",
+      "awarder": "Taiwan Ministry of Education",
+      "summary": "Scholarship awarded by the Taiwan Ministry of Education to promote foreign students to study Mandarin in Taiwan."
+    },
+    {
+      "title": "ABC Stores Jumpstart Scholarship",
+      "date": "2014-2019",
+      "awarder": "Kosasa Family Foundation",
+      "summary": "Scholarship awarded through Hawaii Community Foundation and partnership with Kosasa Family Foundation."
+    },
+    {
+      "title": "B+ Scholarship",
+      "date": "2014-2019",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ]
+}
